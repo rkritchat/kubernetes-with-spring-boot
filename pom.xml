@@ -64,7 +64,9 @@
 				</executions>
 				<configuration>
 					<username>rkritchat</username>
-					<password>tdjfK@66</password>
+					<password>
+
+                    </password>
 					<repository>rkritchat/first-kuber</repository>
 					<tag>${project.version}</tag>
 					<buildArgs>
